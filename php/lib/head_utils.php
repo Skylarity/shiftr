@@ -21,15 +21,8 @@ $PREFIX = str_repeat("../", $DEPTH_DIFFERENCE);
 			  integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ=="
 			  crossorigin="anonymous"/>
 
-		<!-- Optional Bootstrap theme -->
-		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css"
-			  integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX"
-			  crossorigin="anonymous"/>
-
-		<!-- ////////////////////////////////////////////////
-		//// LINK TO YOUR CUSTOM CSS FILES HERE
-		//// <link type="text/css" href="css/style.css" rel="stylesheet"/>
-		///////////////////////////////////////////////////// -->
+		<!-- Font Awesome -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
